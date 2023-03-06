@@ -1,0 +1,12 @@
+C:\Users\lucas\OneDrive\Documentos\EducaMaxs\EducaMaxs.IntegracaoApiSED\src\TestesSoftware\TesteUnidade\bin\Debug\net6.0\TesteUnidade.deps.json
+C:\Users\lucas\OneDrive\Documentos\EducaMaxs\EducaMaxs.IntegracaoApiSED\src\TestesSoftware\TesteUnidade\bin\Debug\net6.0\TesteUnidade.dll
+C:\Users\lucas\OneDrive\Documentos\EducaMaxs\EducaMaxs.IntegracaoApiSED\src\TestesSoftware\TesteUnidade\bin\Debug\net6.0\TesteUnidade.pdb
+C:\Users\lucas\OneDrive\Documentos\EducaMaxs\EducaMaxs.IntegracaoApiSED\src\TestesSoftware\TesteUnidade\obj\Debug\net6.0\TesteUnidade.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Documentos\EducaMaxs\EducaMaxs.IntegracaoApiSED\src\TestesSoftware\TesteUnidade\obj\Debug\net6.0\TesteUnidade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\EducaMaxs\EducaMaxs.IntegracaoApiSED\src\TestesSoftware\TesteUnidade\obj\Debug\net6.0\TesteUnidade.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\EducaMaxs\EducaMaxs.IntegracaoApiSED\src\TestesSoftware\TesteUnidade\obj\Debug\net6.0\TesteUnidade.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\EducaMaxs\EducaMaxs.IntegracaoApiSED\src\TestesSoftware\TesteUnidade\obj\Debug\net6.0\TesteUnidade.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\EducaMaxs\EducaMaxs.IntegracaoApiSED\src\TestesSoftware\TesteUnidade\obj\Debug\net6.0\TesteUnidade.dll
+C:\Users\lucas\OneDrive\Documentos\EducaMaxs\EducaMaxs.IntegracaoApiSED\src\TestesSoftware\TesteUnidade\obj\Debug\net6.0\refint\TesteUnidade.dll
+C:\Users\lucas\OneDrive\Documentos\EducaMaxs\EducaMaxs.IntegracaoApiSED\src\TestesSoftware\TesteUnidade\obj\Debug\net6.0\TesteUnidade.pdb
+C:\Users\lucas\OneDrive\Documentos\EducaMaxs\EducaMaxs.IntegracaoApiSED\src\TestesSoftware\TesteUnidade\obj\Debug\net6.0\ref\TesteUnidade.dll
